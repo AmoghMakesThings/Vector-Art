@@ -1,0 +1,22 @@
+#h1{
+    font-family: 'Staatliches', cursive;
+    max-width: 600px;
+    font-size: 35px;
+    color: white;
+}
+::selection {
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+  }
+  body{
+      text-align: center;
+  }
+  #all{
+      background-color: rgb(59, 59, 59);
+  }
+  #all2{
+    background-color: rgb(204, 204, 204);
+}
+#h2{
+    font-family: 'Staatliches', cursive;
+}
